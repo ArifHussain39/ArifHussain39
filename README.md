@@ -1,4 +1,3 @@
-[![MasterHead](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gi)](https://rishavchanda.io) 
 
 
 <h1 align="center">Hi 👋, I'm Arif Hussain</h1>
