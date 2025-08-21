@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=2D3091&center=true&vCenter=true&width=600&lines=Hey+there+👋,+I'm+Arif+Hussain;Full+Stack+Web+Developer+🚀;QA+Bug+Hunter+🐞;Coffee+%2B+Code+%3D+Life+☕💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=2D3091&center=true&vCenter=true&width=600&lines=Hey+there+👋,+I'm+Arif+Hussain;Full+Stack+Web+Developer+🚀;QA+Bug+Hunter+🐞;Coffee+%2B+Code+%3D+Life+☕💻" alt="Typing SVG" />
 </p>
 
 <h3 align="center" style="color:#2D3091;">Web Wizard 🧙‍♂️ | Full Stack Developer 🚀 | QA Bug Hunter 🐞</h3>
