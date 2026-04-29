@@ -13,7 +13,7 @@ Full Stack Developer 🚀 | Backend & API Specialist | No-Code Expert
 ---
 
 ## 😎 About Me
-- 🔭 Currently working as a **Bubble.io Developer** at **Digitenic**
+- 🔭 Currently working as a **Developer** at **Digitenic**
 - ⚡ **Full Stack Developer** skilled in **Next.js, React, Flask, and Node.js**
 - 🧠 Built **SmartEval AI**, an assessment platform leveraging the **Gemini API**
 - ⚙️ Experienced in **QR-based verification systems** and **automated reporting**
