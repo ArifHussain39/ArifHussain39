@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=2D3091&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Arif+Hussain;Full+Stack+Developer+🚀;Backend+%2B+API+Engineer;No-Code+%7C+Low-Code+Builder;Turning+Ideas+Into+Production+Systems+☕💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=2D3091&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Arif+Hussain;Full+Stack+Developer+🚀;Next.js+%7C+Flask+%7C+Bubble.io;Backend+%2B+API+Engineer;Turning+Ideas+Into+Production+Systems+☕💻" />
 </p>
 
 <h3 align="center" style="color:#2D3091;">
-Full Stack Developer 🚀 | Backend & API Specialist | No-Code Builder (Bubble.io)
+Full Stack Developer 🚀 | Backend & API Specialist | No-Code Expert
 </h3>
 
 <p align="center">
@@ -13,14 +13,13 @@ Full Stack Developer 🚀 | Backend & API Specialist | No-Code Builder (Bubble.i
 ---
 
 ## 😎 About Me
-- 🔭 **Full Stack Developer** with hands-on experience in **Next.js, React, Flask, Node.js & MySQL**
-- 🧠 Strong focus on **backend systems, REST APIs, automation & database design**
-- ⚙️ Currently working as a **Bubble.io Developer** building scalable no-code solutions  
-- 🏗️ Previously developed enterprise systems at **SIBA Testing Service (STS)**  
-- 🧩 Love building **QR-based verification, attendance & automation systems**
-- 💬 Ask me about **Next.js, Flask, APIs, MySQL, System Design, Bubble.io**
+- 🔭 Currently working as a **Bubble.io Developer** at **Digitenic**
+- ⚡ **Full Stack Developer** skilled in **Next.js, React, Flask, and Node.js**
+- 🧠 Built **SmartEval AI**, an assessment platform leveraging the **Gemini API**
+- ⚙️ Experienced in **QR-based verification systems** and **automated reporting**
+- 💬 Ask me about **Next.js, Flask, .NET, MySQL, and System Design**
 - 📫 Reach me at: **arif3337179@gmail.com**
-- 📄 LinkedIn: https://www.linkedin.com/in/arifhussain39/
+- 📄 LinkedIn: [linkedin.com/in/arifhussain39](https://www.linkedin.com/in/arifhussain39)
 
 ---
 
@@ -38,60 +37,32 @@ Full Stack Developer 🚀 | Backend & API Specialist | No-Code Builder (Bubble.i
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,react,nextjs,angular,nodejs,express,flask,mysql,tailwind,materialui,git,github,postman,vercel,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,react,nextjs,angular,nodejs,express,flask,dotnet,mysql,tailwind,git,postman,vercel&theme=light" />
 </p>
 
----
-
-## 💼 Experience
-
-### 🧩 Bubble.io Developer  
-**Digitenic, Islamabad** | *Jan 2026 – Present*  
-- Built scalable web applications using **Bubble.io**
-- Integrated external **REST APIs**
-- Designed optimized database schemas & reusable components
-- Delivered production-ready no-code solutions with clients & designers
-
-### 🧑‍💻 Full Stack Developer  
-**SIBA Testing Service (STS)** | *Jun 2025 – Dec 2025*  
-- Developed enterprise portals using **Angular & REST APIs**
-- Built **verification, attendance & candidate management modules**
-- Automated **Crystal Reports** for certificates, slips & seating plans
-- Implemented **QR-based verification systems**
+> **Note:** Also proficient in **Bubble.io** for building production-ready no-code solutions.
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Projects
 
-### 🔐 Certificate Verification System  
-**Angular | .NET | MySQL | QR Codes**
-- Real-time certificate authentication using unique QR codes
-- Secure .NET API for instant validation
-- MySQL-backed certificate storage
-
-### 🧾 Digital Attendance System  
-**Angular | .NET | MySQL | QR Automation**
-- QR-based automated attendance from candidate slips
-- Accurate, real-time attendance tracking
-
-### 🤖 SmartEval – AI Course Assessment  
+### 🤖 SmartEval AI — Course Assessment Platform
 **Next.js | Flask | MySQL | Gemini API**
-- AI-powered assessment platform for **BSCS subjects**
-- Course management, rubrics upload & feedback dashboards
-- Role-based access for faculty & students
+- AI-powered platform for **BSCS subject assessments** using Gemini API.
+- Features course management, **automated question generation**, and feedback dashboards.
+- Implemented role-based interfaces for both faculty and students.
 
-### 📝 AI Assignment Evaluator  
-**Next.js | Flask | MySQL**
-- Automated assignment evaluation using NLP
-- Feedback generation & grading dashboards
-- Secure backend data models
+### 🛡️ Certificate Verification System
+**Angular | .NET | MySQL | QR Codes**
+- Built a **real-time authentication system** using unique QR codes for instant validation.
+- Developed a secure **.NET API** for data retrieval and certificate status tracking.
 
 ---
 
 ## 📚 Education
-**Sukkur IBA University, Pakistan**  
-🎓 **B.S. Software Engineering**  
-📊 CGPA: **3.23 / 4.0** (2021 – 2025)
+**Sukkur IBA University, Pakistan**
+🎓 **B.S. Software Engineering**
+📊 CGPA: **3.23 / 4.0** (Oct 2021 – Jun 2025)
 
 ---
 
