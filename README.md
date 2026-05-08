@@ -1,80 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=2D3091&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Arif+Hussain;Full+Stack+Developer+🚀;Next.js+%7C+Flask+%7C+Bubble.io;Backend+%2B+API+Engineer;Turning+Ideas+Into+Production+Systems+☕💻" />
-</p>
+# 💫 About Me:
+Currently working as a Developer at Digitenic<br>Full Stack Developer skilled in Next.js, React, Flask, and Node.js<br>Ask me about Full stack development and System Design
 
-<h3 align="center" style="color:#2D3091;">
-Full Stack Developer 🚀 | Backend & API Specialist | No-Code Expert
-</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arifhussain39&label=Profile%20views&color=2D3091&style=flat" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/arifhussain39) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arif3337179@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ArifHussain39&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ArifHussain39&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArifHussain39&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 😎 About Me
-- 🔭 Currently working as a **Developer** at **Digitenic**
-- ⚡ **Full Stack Developer** skilled in **Next.js, React, Flask, and Node.js**
-- 🧠 Built **SmartEval AI**, an assessment platform leveraging the **Gemini API**
-- ⚙️ Experienced in **QR-based verification systems** and **automated reporting**
-- 💬 Ask me about **Next.js, Flask, .NET, MySQL, and System Design**
-- 📫 Reach me at: **arif3337179@gmail.com**
-- 📄 LinkedIn: [linkedin.com/in/arifhussain39](https://www.linkedin.com/in/arifhussain39)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🌐 Let’s Connect
-<p align="left">
-  <a href="https://linkedin.com/in/arifhussain39" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://github.com/arifhussain39" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,react,nextjs,angular,nodejs,express,flask,dotnet,mysql,tailwind,git,postman,vercel&theme=light" />
-</p>
-
-> **Note:** Also proficient in **Bubble.io** for building production-ready no-code solutions.
-
----
-
-## 🚀 Key Projects
-
-### 🤖 SmartEval AI — Course Assessment Platform
-**Next.js | Flask | MySQL | Gemini API**
-- AI-powered platform for **BSCS subject assessments** using Gemini API.
-- Features course management, **automated question generation**, and feedback dashboards.
-- Implemented role-based interfaces for both faculty and students.
-
-### 🛡️ Certificate Verification System
-**Angular | .NET | MySQL | QR Codes**
-- Built a **real-time authentication system** using unique QR codes for instant validation.
-- Developed a secure **.NET API** for data retrieval and certificate status tracking.
-
----
-
-## 📚 Education
-**Sukkur IBA University, Pakistan**
-🎓 **B.S. Software Engineering**
-📊 CGPA: **3.23 / 4.0** (Oct 2021 – Jun 2025)
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arifhussain39&layout=compact&title_color=2D3091&icon_color=2D3091" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifhussain39&show_icons=true&title_color=2D3091&icon_color=2D3091" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifhussain39&ring=2D3091&fire=2D3091&currStreakLabel=2D3091" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
