@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as a Developer at Digitenic<br>Full Stack Developer skilled in Next.js, React, Flask, and Node.js<br>Ask me about Full stack development and System Design
+Full Stack Developer skilled in Next.js, React, Flask, and Node.js<br>Ask me about Full stack development and System Design
 
 
 ## 🌐 Socials:
